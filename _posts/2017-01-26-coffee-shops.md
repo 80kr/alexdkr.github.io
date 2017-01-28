@@ -12,14 +12,42 @@ defaults:
       share: true
       related: true
 
-<!-- layout: post
-title: "Coffee Shops MTA"
- -->
+<!--  -->
 <!-- tags: data science -->
 published: true
 ---
 
-## Coffee Shops Near MTA
+## Coffee Shops
+
+We've just come across the opportunity to open a coffee shop in NYC!
+
+How can we provide suggestions for locations to place a new coffee shop?
+
+This post details the selection of prime locations for coffee shops in NYC.
+
+## Data
+
+Our team used the following data to produce a list of prime locations for new coffee shops:  
+
+  * MTA turnstile data
+  * US census data
+  * Google Maps
+  * Yelp
+
+![an image alt text]({{ site.baseurl }}/images/0.\ Popular\ Times\ for\ Coffee.png "Coffee Traffic During the Day")
+
+The following Python Tools  
+  * google maps  
+  * yelp  
+
+methodology included averages of input demgraphics like high-earners, post-graduate degree holders, and singles
+
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+
+
+
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
@@ -35,10 +63,9 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 This is a demo of all styled elements in Jekyll Now.
 
 [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
-
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-## Header 2 (H1 is reserved for post titles)##
+
 
 ### Header 3
 
