@@ -34,7 +34,7 @@ Our team used the following data to produce a list of prime locations for new co
   * Google Maps
   * Yelp
 
-![an image alt text]({{ site.baseurl }}/images/0.\ Popular\ Times\ for\ Coffee.png "Coffee Traffic During the Day")
+![an image alt text]({{ site.baseurl }}/images/1_coffee/0_times_for_coffee.png "Coffee Traffic During the Day")
 
 The following Python Tools  
   * google maps  
